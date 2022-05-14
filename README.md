@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harrisoncassel
 - 👀 I’m interested in ... hiking & travel (headed to Europe in 2022!)
-- 🌱 I’m currently learning ... Big Data Analytics (Fall 2022)
+- 🌱 I’m currently learning ... Big Data Analytics in R (Fall 2022)
 - 💞️ I’m looking to collaborate on ... just about anything!
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/harrison-cassel)
 
