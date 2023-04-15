@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @harrisoncassel
-- ⏲️ **Incoming Acturial Executive Development Program Intern @ Cigna (Denver, CO - Summer 2023)**
-- 👀 I’m interested in ... hiking & travel
-- 🌱 I’m currently learning ... Big Data Analytics in R (Fall 2022)
-- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/harrison-cassel)
+### Hi! 👋
 
-<!---
-harrisoncassel/harrisoncassel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Statistics undergraduate (May 2024) @ the University of South Carolina**
+
+**Actuarial Executive Development Program Intern @ The Cigna Group (Denver, CO - Summer 2023)**                                                                     
+
+My undergraduate thesis research focuses (and is largely comprised of) my wbb-markov repository. I hope to investigate the efficacy of a Markov Chain as a model for NCAA DI Women's Basketball games/teams.
