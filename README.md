@@ -4,4 +4,4 @@
 
 **Actuarial Executive Development Program Intern @ The Cigna Group (Denver, CO - Summer 2023)**                                                                     
 
-My undergraduate thesis research focuses (and is largely comprised of) my wbb-markov repository. I hope to investigate the efficacy of a Markov Chain as a model for NCAA DI Women's Basketball games/teams.
+My undergraduate thesis research focuses on (and is largely comprised of) my [wbb-markov](https://github.com/harrisoncassel/wbb-markov-project) repository. I hope to investigate the efficacy of a Markov Chain as a model for NCAA DI Women's Basketball games/teams.
